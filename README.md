@@ -26,4 +26,4 @@ msg [LOG_LEVEL] 'MESSAGE'
 set LOG_LEVEL
 ```
 
-`LOG_LEVEL` принимает три значения (в порядке возрастания приоритета): `INFO`, `WARNING` и `ERROR`. 
+`LOG_LEVEL` принимает три значения (в порядке возрастания приоритета): `info`, `warning` и `error`. 
